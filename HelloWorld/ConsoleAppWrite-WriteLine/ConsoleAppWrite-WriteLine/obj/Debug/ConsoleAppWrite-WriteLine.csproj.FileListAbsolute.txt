@@ -1,0 +1,7 @@
+D:\VS\HelloWorld\ConsoleAppWrite-WriteLine\ConsoleAppWrite-WriteLine\bin\Debug\ConsoleAppWrite-WriteLine.exe.config
+D:\VS\HelloWorld\ConsoleAppWrite-WriteLine\ConsoleAppWrite-WriteLine\bin\Debug\ConsoleAppWrite-WriteLine.exe
+D:\VS\HelloWorld\ConsoleAppWrite-WriteLine\ConsoleAppWrite-WriteLine\bin\Debug\ConsoleAppWrite-WriteLine.pdb
+D:\VS\HelloWorld\ConsoleAppWrite-WriteLine\ConsoleAppWrite-WriteLine\obj\Debug\ConsoleAppWrite-WriteLine.csproj.AssemblyReference.cache
+D:\VS\HelloWorld\ConsoleAppWrite-WriteLine\ConsoleAppWrite-WriteLine\obj\Debug\ConsoleAppWrite-WriteLine.csproj.CoreCompileInputs.cache
+D:\VS\HelloWorld\ConsoleAppWrite-WriteLine\ConsoleAppWrite-WriteLine\obj\Debug\ConsoleAppWrite-WriteLine.exe
+D:\VS\HelloWorld\ConsoleAppWrite-WriteLine\ConsoleAppWrite-WriteLine\obj\Debug\ConsoleAppWrite-WriteLine.pdb
