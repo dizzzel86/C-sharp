@@ -1,0 +1,8 @@
+F:\VS\repos\HomeWork\Lesson3\Lesson3\HomeWork_3.2\bin\Debug\HomeWork_3.2.exe.config
+F:\VS\repos\HomeWork\Lesson3\Lesson3\HomeWork_3.2\bin\Debug\HomeWork_3.2.exe
+F:\VS\repos\HomeWork\Lesson3\Lesson3\HomeWork_3.2\bin\Debug\HomeWork_3.2.pdb
+F:\VS\repos\HomeWork\Lesson3\Lesson3\HomeWork_3.2\obj\Debug\HomeWork_3.2.csproj.AssemblyReference.cache
+F:\VS\repos\HomeWork\Lesson3\Lesson3\HomeWork_3.2\obj\Debug\HomeWork_3.2.csproj.SuggestedBindingRedirects.cache
+F:\VS\repos\HomeWork\Lesson3\Lesson3\HomeWork_3.2\obj\Debug\HomeWork_3.2.csproj.CoreCompileInputs.cache
+F:\VS\repos\HomeWork\Lesson3\Lesson3\HomeWork_3.2\obj\Debug\HomeWork_3.2.exe
+F:\VS\repos\HomeWork\Lesson3\Lesson3\HomeWork_3.2\obj\Debug\HomeWork_3.2.pdb
