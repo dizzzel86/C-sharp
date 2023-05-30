@@ -1,0 +1,8 @@
+F:\VS\cicles\cicles\bin\Debug\cicles.exe.config
+F:\VS\cicles\cicles\bin\Debug\cicles.exe
+F:\VS\cicles\cicles\bin\Debug\cicles.pdb
+F:\VS\cicles\cicles\obj\Debug\cicles.csproj.AssemblyReference.cache
+F:\VS\cicles\cicles\obj\Debug\cicles.csproj.SuggestedBindingRedirects.cache
+F:\VS\cicles\cicles\obj\Debug\cicles.csproj.CoreCompileInputs.cache
+F:\VS\cicles\cicles\obj\Debug\cicles.exe
+F:\VS\cicles\cicles\obj\Debug\cicles.pdb
