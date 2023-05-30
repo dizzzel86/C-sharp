@@ -28,14 +28,16 @@ namespace HomeWork_4._2
             {
                 for (int col = 0; col < columnsInMatrix; col++)
                 {
-                    matrix[str, col] = random.Next(0, 5);
+                    matrix[str, col] = random.Next(0, 100);
                     Console.Write($"{matrix[str, col]}  ");
                     sumOfMatrix1stValues += matrix[str, col];
                 }
                 Console.WriteLine();
             }
+                
+            Console.WriteLine($"\nСумма первой матрицы: {sumOfMatrix1stValues}");
 
-            Console.WriteLine($"Сумма первой матрицы: {sumOfMatrix1stValues}");
+            Console.WriteLine("\nВторая матрица:");
 
             int newStringsInMatrix = stringsInMatrix;
             int newColumnsInMatrix = columnsInMatrix;
@@ -46,15 +48,16 @@ namespace HomeWork_4._2
             {
                 for (int newCol = 0; newCol < newColumnsInMatrix; newCol++)
                 {
-                    newMatrix[newStr, newCol] = random.Next(0, 5);
+                    newMatrix[newStr, newCol] = random.Next(0, 100);
                     Console.Write($"{newMatrix[newStr, newCol]}  ");
                     sumOfMatrix2ndValues += newMatrix[newStr, newCol];
                 }
                 Console.WriteLine();
             }
 
-            Console.WriteLine($"Сумма второй матрицы: {sumOfMatrix2ndValues}");
+            Console.WriteLine($"\nСумма второй матрицы: {sumOfMatrix2ndValues}");
 
+            Console.WriteLine("\nРезультат сложения двух матриц:");
             
             int row = stringsInMatrix;
             int coll = columnsInMatrix;
@@ -71,7 +74,7 @@ namespace HomeWork_4._2
 
                 Console.WriteLine();
             }
-            Console.WriteLine($"Сумма итоговой матрицы: {sumOfMatrix3rdValues}");
+            Console.WriteLine($"\nСумма итоговой матрицы: {sumOfMatrix3rdValues}");
 
             Console.ReadKey();
         }
