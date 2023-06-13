@@ -1,0 +1,8 @@
+F:\VS\HomeWork_5\HomeWork_5.2\bin\Debug\HomeWork_5.2.exe.config
+F:\VS\HomeWork_5\HomeWork_5.2\bin\Debug\HomeWork_5.2.exe
+F:\VS\HomeWork_5\HomeWork_5.2\bin\Debug\HomeWork_5.2.pdb
+F:\VS\HomeWork_5\HomeWork_5.2\obj\Debug\HomeWork_5.2.csproj.AssemblyReference.cache
+F:\VS\HomeWork_5\HomeWork_5.2\obj\Debug\HomeWork_5.2.csproj.SuggestedBindingRedirects.cache
+F:\VS\HomeWork_5\HomeWork_5.2\obj\Debug\HomeWork_5.2.csproj.CoreCompileInputs.cache
+F:\VS\HomeWork_5\HomeWork_5.2\obj\Debug\HomeWork_5.2.exe
+F:\VS\HomeWork_5\HomeWork_5.2\obj\Debug\HomeWork_5.2.pdb

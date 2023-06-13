@@ -27,22 +27,24 @@ namespace Lesson_4._7
             //    Console.Write($"{e} ");
             //}
 
-            int[][] dataTime = new int[24][];
+            //int[][] dataTime = new int[24][];
 
-            for (int i = 0;i < dataTime.Length; i++)
-            {
-                dataTime[i] = (i >= 9 && i < 21) ? new int[12] : new int[4];
-            }
+            //for (int i = 0;i < dataTime.Length; i++)
+            //{
+            //    dataTime[i] = (i >= 9 && i < 21) ? new int[12] : new int[4];
+            //}
 
-            foreach (int[] array in dataTime)
-            {
-                foreach (int item in array)
-                {
-                    Console.Write($"{item,3} ");
-                }
-                Console.WriteLine();
-            }
-            Console.ReadKey();
+            //foreach (int[] array in dataTime)
+            //{
+            //    foreach (int item in array)
+            //    {
+            //        Console.Write($"{item,3} ");
+            //    }
+            //    Console.WriteLine();
+            //}
+            //Console.ReadKey();
+
+            //string message = "Я C#-разработчик"; 
             
         }
     }

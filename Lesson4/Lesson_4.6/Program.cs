@@ -58,22 +58,24 @@ namespace Lesson_4._6
             //Console.ReadKey();
             //Console.Clear();
 
-            int[][] dataTime = new int[24][];
-            for(int j =  0; j < dataTime.Length; j++)
-            {
-                dataTime[j] = (j >= 9 && j <21) ? new int[12] : new int[4];
-            }
+            //int[][] dataTime = new int[24][];
+            //for(int j =  0; j < dataTime.Length; j++)
+            //{
+            //    dataTime[j] = (j >= 9 && j <21) ? new int[12] : new int[4];
+            //}
 
-            for (int i = 0; i < dataTime.Length; i++)
-            {
-                for (int j = 0;j < dataTime[i].Length; j++)
-                {
-                    dataTime[i][j] = rnd.Next(20);
-                    Console.Write($"{dataTime[i][j],3} ");
-                }
-                Console.WriteLine();
-            }
-            Console.ReadKey();
+            //for (int i = 0; i < dataTime.Length; i++)
+            //{
+            //    for (int j = 0;j < dataTime[i].Length; j++)
+            //    {
+            //        dataTime[i][j] = rnd.Next(20);
+            //        Console.Write($"{dataTime[i][j],3} ");
+            //    }
+            //    Console.WriteLine();
+            //}
+            //Console.ReadKey();
+
+
         }
     }
 }
