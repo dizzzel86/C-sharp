@@ -60,7 +60,7 @@ namespace HomeWork_6
                         Console.Write("Введите ID: ");
                         userInput += $"{Console.ReadLine()}\t";
 
-                        string time = DateTime.Now.ToShortTimeString();
+                        string time = DateTime.Now.ToString();
                         Console.WriteLine($"Время записи {time}");
                         userInput += $"{time}\t";
 
