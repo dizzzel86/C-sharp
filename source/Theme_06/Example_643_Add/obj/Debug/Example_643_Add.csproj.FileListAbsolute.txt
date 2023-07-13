@@ -1,0 +1,14 @@
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\bin\Debug\Example_643_Add.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\bin\Debug\Example_643_Add.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\bin\Debug\Example_643_Add.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.pdb
+F:\VS\source\Theme_06\Example_643_Add\bin\Debug\Example_643_Add.exe.config
+F:\VS\source\Theme_06\Example_643_Add\bin\Debug\Example_643_Add.exe
+F:\VS\source\Theme_06\Example_643_Add\bin\Debug\Example_643_Add.pdb
+F:\VS\source\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.csproj.AssemblyReference.cache
+F:\VS\source\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.csproj.SuggestedBindingRedirects.cache
+F:\VS\source\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.csproj.CoreCompileInputs.cache
+F:\VS\source\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.exe
+F:\VS\source\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.pdb

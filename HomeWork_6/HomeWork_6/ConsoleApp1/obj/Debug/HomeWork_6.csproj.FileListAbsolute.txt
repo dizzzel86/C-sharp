@@ -1,0 +1,8 @@
+F:\VS\HomeWork_6\HomeWork_6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\VS\HomeWork_6\HomeWork_6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\VS\HomeWork_6\HomeWork_6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\VS\HomeWork_6\HomeWork_6\ConsoleApp1\obj\Debug\HomeWork_6.csproj.AssemblyReference.cache
+F:\VS\HomeWork_6\HomeWork_6\ConsoleApp1\obj\Debug\HomeWork_6.csproj.SuggestedBindingRedirects.cache
+F:\VS\HomeWork_6\HomeWork_6\ConsoleApp1\obj\Debug\HomeWork_6.csproj.CoreCompileInputs.cache
+F:\VS\HomeWork_6\HomeWork_6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\VS\HomeWork_6\HomeWork_6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

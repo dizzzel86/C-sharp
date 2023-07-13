@@ -1,0 +1,38 @@
+c:\$360Section
+c:\$Recycle.Bin
+c:\$WinREAgent
+c:\3uTools
+c:\Activators
+c:\ALCO
+c:\Bases
+c:\Bases — копия
+c:\bases1
+c:\Config.Msi
+c:\Documents and Settings
+c:\EGAIS
+c:\files
+c:\ITCOM
+c:\Log
+c:\Log Files
+c:\MSOCache
+c:\NVIDIA
+c:\PerfLogs
+c:\Program Files
+c:\Program Files (x86)
+c:\ProgramData
+c:\Recovery
+c:\Steam
+c:\System Volume Information
+c:\temp
+c:\totalcmd
+c:\Users
+c:\UTM
+c:\UTM — копия
+c:\WCH.CN
+c:\wget
+c:\Windows
+c:\XINYE POS Printer Driver
+c:\АО ГНИВЦ
+c:\база
+c:\база резервная копия
+c:\Налогоплательщик ЮЛ
