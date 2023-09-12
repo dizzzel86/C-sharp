@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Adress_Book>
+  <Adress>
+    <Full_Name>1</Full_Name>
+    <Street>2</Street>
+    <House_Number>3</House_Number>
+    <Flat_Number>4</Flat_Number>
+  </Adress>
+  <Phones>
+    <Mobile_Phone>5</Mobile_Phone>
+    <Flat_Phone>6</Flat_Phone>
+  </Phones>
+</Adress_Book>

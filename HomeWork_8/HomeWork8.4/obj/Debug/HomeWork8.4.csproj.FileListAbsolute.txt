@@ -1,0 +1,8 @@
+F:\VS\HomeWork_8\HomeWork8.4\bin\Debug\HomeWork8.4.exe.config
+F:\VS\HomeWork_8\HomeWork8.4\bin\Debug\HomeWork8.4.exe
+F:\VS\HomeWork_8\HomeWork8.4\bin\Debug\HomeWork8.4.pdb
+F:\VS\HomeWork_8\HomeWork8.4\obj\Debug\HomeWork8.4.csproj.AssemblyReference.cache
+F:\VS\HomeWork_8\HomeWork8.4\obj\Debug\HomeWork8.4.csproj.SuggestedBindingRedirects.cache
+F:\VS\HomeWork_8\HomeWork8.4\obj\Debug\HomeWork8.4.csproj.CoreCompileInputs.cache
+F:\VS\HomeWork_8\HomeWork8.4\obj\Debug\HomeWork8.4.exe
+F:\VS\HomeWork_8\HomeWork8.4\obj\Debug\HomeWork8.4.pdb

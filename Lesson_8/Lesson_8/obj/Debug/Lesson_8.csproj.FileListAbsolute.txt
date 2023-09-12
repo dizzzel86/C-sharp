@@ -1,0 +1,8 @@
+F:\VS\Lesson_8\Lesson_8\bin\Debug\Lesson_8.exe.config
+F:\VS\Lesson_8\Lesson_8\bin\Debug\Lesson_8.exe
+F:\VS\Lesson_8\Lesson_8\bin\Debug\Lesson_8.pdb
+F:\VS\Lesson_8\Lesson_8\obj\Debug\Lesson_8.csproj.AssemblyReference.cache
+F:\VS\Lesson_8\Lesson_8\obj\Debug\Lesson_8.csproj.SuggestedBindingRedirects.cache
+F:\VS\Lesson_8\Lesson_8\obj\Debug\Lesson_8.csproj.CoreCompileInputs.cache
+F:\VS\Lesson_8\Lesson_8\obj\Debug\Lesson_8.exe
+F:\VS\Lesson_8\Lesson_8\obj\Debug\Lesson_8.pdb
