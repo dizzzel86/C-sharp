@@ -1,0 +1,16 @@
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9.csproj.AssemblyReference.cache
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9.csproj.SuggestedBindingRedirects.cache
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\MainWindow.g.cs
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\App.g.cs
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9_MarkupCompile.cache
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9_MarkupCompile.lref
+F:\VS\HomeWork_9\HomeWork9\bin\Debug\HomeWork9.exe.config
+F:\VS\HomeWork_9\HomeWork9\bin\Debug\HomeWork9.exe
+F:\VS\HomeWork_9\HomeWork9\bin\Debug\HomeWork9.pdb
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\MainWindow.baml
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9.g.resources
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9.Properties.Resources.resources
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9.csproj.GenerateResource.cache
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9.csproj.CoreCompileInputs.cache
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9.exe
+F:\VS\HomeWork_9\HomeWork9\obj\Debug\HomeWork9.pdb

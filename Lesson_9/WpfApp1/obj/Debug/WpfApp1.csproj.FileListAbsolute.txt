@@ -1,0 +1,15 @@
+F:\VS\Lesson_9\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\VS\Lesson_9\WpfApp1\bin\Debug\WpfApp1.exe
+F:\VS\Lesson_9\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\VS\Lesson_9\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\VS\Lesson_9\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+F:\VS\Lesson_9\WpfApp1\obj\Debug\MainWindow.baml
+F:\VS\Lesson_9\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\VS\Lesson_9\WpfApp1\obj\Debug\App.g.cs
+F:\VS\Lesson_9\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\VS\Lesson_9\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\VS\Lesson_9\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\VS\Lesson_9\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\VS\Lesson_9\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\VS\Lesson_9\WpfApp1\obj\Debug\WpfApp1.exe
+F:\VS\Lesson_9\WpfApp1\obj\Debug\WpfApp1.pdb
