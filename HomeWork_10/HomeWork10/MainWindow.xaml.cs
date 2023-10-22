@@ -148,7 +148,7 @@ namespace HomeWork10
                 Clear();
                 User user = new User();
                 Consultant consultant = new Consultant();
-                
+
                 string changeInfoLog = "";
                 user = user.GetConsultantInfo(user);
                 User user1 = new User();
@@ -162,7 +162,6 @@ namespace HomeWork10
                     user.PhoneNumber = value;
                     //Добавляем дату изменения
                     user.DateOfChangeUser = DateTime.Now;
-                   // user1.CompareUserInfo(user);
                     string userJson = JsonConvert.SerializeObject(user);
                     File.WriteAllText(user.Path(), userJson);
                     MessageBox.Show("Номер телефона успешно изменен!");
@@ -172,12 +171,12 @@ namespace HomeWork10
                 }
 
                 else consultant.ErrorPhone();
-               
+
 
             }
             if (myComboBox.SelectedIndex != 1 && myComboBox.SelectedIndex != 0)
             {
-                 MessageBox.Show("Должность не выбрана!");
+                MessageBox.Show("Должность не выбрана!");
             }
 
 
@@ -222,7 +221,7 @@ namespace HomeWork10
                 viewPatronymic.Items.Add(user.Patronymic);
                 viewSurname.Items.Add(user.Surname);
                 viewPhoneNumber.Items.Add(user.PhoneNumber);
-               
+
 
             }
             if (myComboBox.SelectedIndex != 1 && myComboBox.SelectedIndex != 0)
@@ -295,9 +294,9 @@ namespace HomeWork10
             if (!string.IsNullOrWhiteSpace(changePhoneNumber.Text))
             {
                 getChangePhoneNumber = changePhoneNumber.Text;
-                
+
             }
-            if (string.IsNullOrWhiteSpace (getChangePhoneNumber))
+            if (string.IsNullOrWhiteSpace(getChangePhoneNumber))
             {
                 MessageBox.Show("В поле <Телефон> не введено значение!");
             }
