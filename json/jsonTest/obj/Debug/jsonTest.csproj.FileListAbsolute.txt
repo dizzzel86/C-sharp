@@ -1,0 +1,11 @@
+F:\VS\json\jsonTest\bin\Debug\jsonTest.exe.config
+F:\VS\json\jsonTest\bin\Debug\jsonTest.exe
+F:\VS\json\jsonTest\bin\Debug\jsonTest.pdb
+F:\VS\json\jsonTest\bin\Debug\Newtonsoft.Json.dll
+F:\VS\json\jsonTest\bin\Debug\Newtonsoft.Json.xml
+F:\VS\json\jsonTest\obj\Debug\jsonTest.csproj.AssemblyReference.cache
+F:\VS\json\jsonTest\obj\Debug\jsonTest.csproj.SuggestedBindingRedirects.cache
+F:\VS\json\jsonTest\obj\Debug\jsonTest.csproj.CoreCompileInputs.cache
+F:\VS\json\jsonTest\obj\Debug\jsonTest.csproj.CopyComplete
+F:\VS\json\jsonTest\obj\Debug\jsonTest.exe
+F:\VS\json\jsonTest\obj\Debug\jsonTest.pdb

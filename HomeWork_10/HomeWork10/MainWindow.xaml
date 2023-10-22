@@ -1,0 +1,243 @@
+﻿<Window x:Class="HomeWork10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeWork10"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="720" MinWidth="1024">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="207*"/>
+            <RowDefinition Height="48*"/>
+            <RowDefinition Height="163.928"/>
+            <RowDefinition Height="28.955"/>
+            <RowDefinition Height="224.155"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="87*"/>
+            <ColumnDefinition Width="322*"/>
+            <ColumnDefinition Width="215*"/>
+            <ColumnDefinition Width="176*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
+                   Margin="0,53,0,0"
+                   TextWrapping="WrapWithOverflow" 
+                   Width="60" 
+                   Height="20"
+                   Grid.Row="1" Text="Фамилия"/>
+        <TextBlock HorizontalAlignment="Center" 
+                   Margin="0,82,0,0" 
+                   TextWrapping="Wrap"
+                   Width="60" 
+                   Height="20"
+                   Grid.Row="1" VerticalAlignment="Top">
+            <Run Language="ru-ru" Text="Имя"/></TextBlock>
+        <TextBlock HorizontalAlignment="Center" 
+                   TextWrapping="Wrap" 
+                   VerticalAlignment="Top" 
+                   Width="60" 
+                   Height="20"
+                   Grid.Row="1" Margin="0,112,0,0"><Run Language="ru-ru" Text="Отчество"/></TextBlock>
+        <TextBlock HorizontalAlignment="Center"
+                   TextWrapping="Wrap"
+                   VerticalAlignment="Top" 
+                   Width="60" 
+                   Height="20"
+                   Grid.Row="1" Margin="0,142,0,0">
+            <Run Language="ru-ru" Text="Телефон"/></TextBlock>
+        <TextBlock HorizontalAlignment="Center" 
+                   Margin="0,171,0,0" 
+                   TextWrapping="Wrap" 
+                   VerticalAlignment="Top" 
+                   Width="60" 
+                   Height="20"
+                   Grid.Row="1"><Run Language="ru-ru" Text="Паспорт"/></TextBlock>
+
+        <ListBox x:Name="viewSurname"
+                 Grid.Column="1" 
+                 HorizontalAlignment="Center"
+                 Margin="0,0,0,136"
+                 Width="302"
+                 Grid.Row="1" Height="24" VerticalAlignment="Bottom"/>
+        <ListBox x:Name="viewName" 
+                 Grid.Column="1" 
+                 HorizontalAlignment="Center"
+                 Margin="0,0,0,103"
+                 VerticalAlignment="Bottom"
+                 Width="302" 
+                 Height="24" 
+                 Grid.Row="1"/>
+        <ListBox x:Name="viewPatronymic" 
+                 Grid.Column="1" 
+                 HorizontalAlignment="Center" 
+                 VerticalAlignment="Bottom"
+                 Width="302" 
+                 Height="24" 
+                 Grid.Row="1" Margin="0,0,0,73"/>
+        <ListBox x:Name="viewPhoneNumber" 
+                 Grid.Column="1" 
+                 HorizontalAlignment="Center" 
+                 VerticalAlignment="Bottom"
+                 Width="302" 
+                 Height="24"
+                 Grid.Row="1"
+                 Margin="0,0,0,43"/>
+        <ListBox x:Name="viewPassportDetails"
+            Grid.Column="1" 
+            HorizontalAlignment="Center"
+                 Margin="0,0,0,14"
+                 VerticalAlignment="Bottom"
+                 Width="302"
+                 Height="24"
+                 Grid.Row="1"/>
+        <ComboBox x:Name="myComboBox" 
+                  Grid.Column="3" 
+                  HorizontalAlignment="Center"
+                  Margin="0,0,0,132" 
+                  VerticalAlignment="Bottom" 
+                  Width="156" 
+                  SelectionChanged="ComboBox_SelectionChanged" Height="29" Grid.Row="1"
+                    >
+            <ComboBoxItem Content="Manager"/>
+            <ComboBoxItem Content="Consultant"/>
+        </ComboBox>
+        <TextBlock 
+            HorizontalAlignment="Center"
+            Margin="0,0,0,179" 
+            TextWrapping="Wrap" 
+            VerticalAlignment="Bottom"
+            Height="18" 
+            Width="120"
+            Grid.Column="3" Grid.Row="1">
+            <Run Language="ru-ru" 
+                 Text="Выберите должность"/></TextBlock>
+        <Button Grid.Column="2" 
+                Content="Посмотреть данные клиента" 
+                HorizontalAlignment="Center" 
+                Grid.Row="1"
+                VerticalAlignment="Bottom" 
+                RenderTransformOrigin="1.01,-1.397" 
+                Height="78"
+                Width="168" 
+                Click="Button_Click_2" Margin="0,0,0,46"/>
+        <TextBlock 
+            HorizontalAlignment="Center" 
+            TextWrapping="NoWrap" 
+            VerticalAlignment="Center"
+            Width="104"
+            Height="17"
+            RenderTransformOrigin="0.443,-0.586" 
+            Grid.Column="1">
+            <Run Language="ru-ru" 
+                 Text="Просмотр данных"/></TextBlock>
+        <TextBlock
+            HorizontalAlignment="Center" 
+            TextWrapping="NoWrap"
+            VerticalAlignment="Top"
+            Width="116"
+            Height="34" 
+            RenderTransformOrigin="0.467,0.589" 
+            Grid.Column="1" 
+            Margin="0,14,0,0" 
+            Grid.Row="2">
+            <Run Language="ru-ru" Text="Изменение"/><Run Text=" данных"/></TextBlock>
+        <TextBlock 
+            HorizontalAlignment="Center"
+            Margin="0,14,0,0"
+            TextWrapping="Wrap" 
+            VerticalAlignment="Top"
+            Height="16"
+            Width="50" 
+            Grid.Row="3">
+            <Run Language="ru-ru" Text="Фамилия"/></TextBlock>
+        <TextBlock 
+            HorizontalAlignment="Center"
+            Margin="0,41,0,0" 
+            TextWrapping="Wrap" 
+            VerticalAlignment="Top"
+            Height="16"
+            Width="50"
+            Grid.Row="3">
+            <Run Language="ru-ru" Text="Имя"/></TextBlock>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Height="16" Width="52" Grid.Row="3"><Run Language="ru-ru" Text="Отчество"/></TextBlock>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Height="16" Width="52" Grid.Row="3" Margin="0,102,0,0"><Run Language="ru-ru" Text="Телефон"/></TextBlock>
+        <TextBlock HorizontalAlignment="Center" Margin="0,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.257,-0.77" Height="16" Width="50" Grid.Row="3"><Run Language="ru-ru" Text="Паспорт"/></TextBlock>
+        <TextBox x:Name="changeSurname" Grid.Column="1"
+                 HorizontalAlignment="Center" 
+                 Margin="0,0,0,130" 
+                 Grid.Row="3"
+                 TextWrapping="Wrap" 
+                 Text="" 
+                 VerticalAlignment="Bottom" 
+                 Width="302" 
+                 Height="24"/>
+        <TextBox x:Name="changeName"
+                 Grid.Column="1" 
+                 HorizontalAlignment="Center"
+                 Margin="0,0,0,101"
+                 Grid.Row="3" 
+                 TextWrapping="Wrap" 
+                 Text="" 
+                 VerticalAlignment="Bottom" 
+                 Width="302" 
+                 Height="24"/>
+        <TextBox x:Name="changePatronymic"
+                 Grid.Column="1"
+                 HorizontalAlignment="Center"
+                 Grid.Row="3"
+                 TextWrapping="Wrap"
+                 Text=""
+                 VerticalAlignment="Bottom" 
+                 Width="302"
+                 Height="24" Margin="0,0,0,70"/>
+        <TextBox x:Name="changePhoneNumber"
+                 Grid.Column="1"
+                 HorizontalAlignment="Center"
+                 Grid.Row="3" 
+                 TextWrapping="Wrap" 
+                 Text=""
+                 VerticalAlignment="Bottom" 
+                 Width="302"
+                 Height="24"
+                 Margin="0,0,0,42"/>
+        <TextBox x:Name="changePassportDetails"
+                 Grid.Column="1"
+                 HorizontalAlignment="Center"
+                 Margin="0,0,0,13"
+                 Grid.Row="3" 
+                 TextWrapping="Wrap"
+                 Text="" 
+                 VerticalAlignment="Bottom"
+                 Width="302"
+                 Height="24"/>
+        <Button Grid.Column="2" Content="Изменить данные клиента"
+                HorizontalAlignment="Center"
+                Grid.Row="3" VerticalAlignment="Top"
+                RenderTransformOrigin="1.01,-1.397"
+                Height="78"
+                Width="168"
+                Margin="0,38,0,0" 
+                Click="Button_Click"/>
+        <TextBlock
+            HorizontalAlignment="Left" 
+            TextWrapping="NoWrap"
+            VerticalAlignment="Center"
+            Width="88"
+            Height="24" 
+            RenderTransformOrigin="0.467,0.589" 
+            Grid.Column="1" 
+            Grid.Row="4" Margin="356,0,0,0" Grid.ColumnSpan="2"><Run Language="ru-ru" Text="Лог Изменений"/></TextBlock>
+        <ListBox x:Name="changeLogWindow"
+            Grid.Column="1" 
+            HorizontalAlignment="Left" 
+            Grid.Row="5" 
+            VerticalAlignment="Bottom" 
+            Height="186" 
+            Width="780" Margin="10,0,0,28" Grid.ColumnSpan="3"/>
+
+
+    </Grid>
+</Window>

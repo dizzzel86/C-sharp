@@ -22,7 +22,7 @@ namespace HomeWork9
     public partial class MainWindow : Window
     {
 
-        string userInput;
+        
 
 
 
@@ -45,7 +45,7 @@ namespace HomeWork9
 
         {
 
-            var textBox = sender as TextBox;
+           
 
 
         }
